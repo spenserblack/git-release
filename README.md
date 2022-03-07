@@ -1,5 +1,9 @@
 # `git release`
 
+## Status
+
+Archiving this repository since I've made [a very similar one here](https://github.com/spenserblack/git-release).
+
 ## Motivation
 
 I like to write release notes in an annotated tag message.
